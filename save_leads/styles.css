@@ -1,0 +1,59 @@
+body{
+    margin: 20px 30px;
+}
+
+#container{
+    width: 380px;
+    min-height: 300px;
+}
+
+#input-field{
+    width: 100%;
+    height: 28px;
+    margin-bottom: 10px;
+    padding:0px 10px;
+}
+
+#items-list{
+    margin: 0;
+    list-style: none;
+    color: green;
+}
+
+button{
+    border: none;
+    border-radius: 5px;
+    height: 32px;
+    width: 120px;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    margin-bottom: 15px;
+}
+
+#saveinput-btn{
+    background-color: rgb(62, 175, 62);
+}
+
+#savetab-btn{
+    background-color: rgb(79, 79, 255);
+}
+
+#delete-btn{
+    color: rgb(255, 104, 104);
+    background-color: transparent;
+    border: 2px solid;
+    border-color: rgb(255, 104, 104);
+    
+}
+
+li a{
+    color: rgb(62, 175, 62);
+    font-size: 16;
+}
+
+li{
+    margin-bottom: 5px;
+    font-size: 20px;
+    margin-left: -30px;
+}
